@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/daryl-findlay/static/css/main.b100e6da.chunk.css",
+    "main.js": "/daryl-findlay/static/js/main.25dc5a1c.chunk.js",
+    "main.js.map": "/daryl-findlay/static/js/main.25dc5a1c.chunk.js.map",
+    "runtime-main.js": "/daryl-findlay/static/js/runtime-main.8c51a8c0.js",
+    "runtime-main.js.map": "/daryl-findlay/static/js/runtime-main.8c51a8c0.js.map",
+    "static/js/2.b36af50d.chunk.js": "/daryl-findlay/static/js/2.b36af50d.chunk.js",
+    "static/js/2.b36af50d.chunk.js.map": "/daryl-findlay/static/js/2.b36af50d.chunk.js.map",
+    "index.html": "/daryl-findlay/index.html",
+    "precache-manifest.877fc59771a3c143dcff4b45f8cf34fd.js": "/daryl-findlay/precache-manifest.877fc59771a3c143dcff4b45f8cf34fd.js",
+    "service-worker.js": "/daryl-findlay/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/daryl-findlay/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/daryl-findlay/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c51a8c0.js",
+    "static/js/2.b36af50d.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.25dc5a1c.chunk.js"
+  ]
+}
