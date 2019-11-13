@@ -1,0 +1,12 @@
+.card {
+  border-radius: 25px;
+  border: 1px solid white;
+  height: 300px;
+  width: calc(300px * 1.618);
+  margin: 0 auto;
+  background-color: coral;
+
+  -webkit-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.4);
+  -moz-box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.4);
+  box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.4);
+}
